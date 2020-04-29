@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<App>
+  <AppVersion>2.8.4.5</AppVersion>
+  <downLink>https://coshri.github.io/OSF/</downLink>
+  <BackupServerPath>https://osf-oshric.c9users.io/OSF/</BackupServerPath>
+  <TextInfo>
+    תיקונים (גרסה 2.8.4.5 :
+   תיקון פג תוקף של גרסה ישנה
+
+    לאחר ההורדה ניתן לחלץ ולהעתיק 
+    את קובץ ההרצה המעודכן 
+    לתיקיית התוכנה הקודמת
+    (וכך לשמור על הקבצים שכבר ירדו לאותה תיקייה)
+  </TextInfo>
+</App>
+
