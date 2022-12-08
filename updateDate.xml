@@ -1,12 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <App>
-  <AppVersion>3.1.0.0</AppVersion>
+  <AppVersion>3.1.0.1</AppVersion>
   <downLink>https://coshri.github.io/OSF/</downLink>
   <BackupServerPath>https://osf-oshric.c9users.io/OSF/</BackupServerPath>
   <TextInfo>
-    תיקונים (גרסה 3.1.0.0) :
-   תיקון פתיחת קישורים מתוך המסמך
-   הוספת שרתים נוספים לסנכרון השעון
+    תיקונים (גרסה 3.1.0.1) :
+   עדכון פג תוקף
 
     לאחר ההורדה ניתן לחלץ ולהעתיק 
     את קובץ ההרצה המעודכן 
